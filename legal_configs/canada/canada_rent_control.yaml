@@ -1,0 +1,26 @@
+jurisdiction: "Canada"
+category: "Residential Tenancy Law"
+last_updated: "2024-02-12"
+
+principles:
+  - name: "Rent Increase Regulation"
+    code: "Residential Tenancies Act, 2006 (Ontario), Sections 119-133"
+    description: "Limits the amount and frequency of residential rent increases in Ontario."
+    conditions:
+      - "Tenant has resided in the unit for 12 months or more"
+      - "Notice of increase provided in writing at least 90 days in advance"
+      - "Increase does not exceed the annual guideline set by the government"
+    exceptions:
+      - "New residential units built or occupied after November 15, 2018 may be exempt"
+      - "Additional increases permitted if approved by the Landlord and Tenant Board"
+    enforcement:
+      - "Tenant may file a complaint if increase violates legal limits"
+      - "Landlord may face penalties or reversal of rent increase"
+    precedents:
+      - "Kassam v. Ontario (LTB), 2021"
+      - "Re: Jones v. Mapleview Apartments, 2019"
+    keywords:
+      - "rent control"
+      - "tenancy law"
+      - "Ontario rental guidelines"
+      - "notice period"

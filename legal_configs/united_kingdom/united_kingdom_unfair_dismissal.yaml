@@ -1,0 +1,41 @@
+jurisdiction: "United Kingdom"
+category: "Employment Law"
+last_updated: "2024-01-25"
+
+principles:
+  - name: "Unfair Dismissal"
+    code: "Employment Rights Act 1996, Section 94"
+    description: "Grants employees the right not to be unfairly dismissed by their employer."
+    conditions:
+      - "Employee has completed at least two years of continuous service"
+      - "Dismissal was not for a fair reason (e.g., conduct, capability, redundancy)"
+      - "Employer did not follow a fair disciplinary or dismissal process"
+    enforcement:
+      - "Claim must be filed with an Employment Tribunal within three months"
+      - "Remedies include reinstatement, re-engagement, or compensation"
+    precedents:
+      - "Polkey v A.E. Dayton Services Ltd [1987] UKHL"
+      - "Taylor v OCS Group Ltd [2006] EWCA Civ 702"
+    keywords:
+      - "unfair dismissal"
+      - "employment rights"
+      - "disciplinary procedure"
+      - "tribunal claim"
+
+  - name: "ACAS Code Compliance"
+    code: "ACAS Code of Practice on Disciplinary and Grievance Procedures"
+    description: "Employers must follow this statutory code when handling dismissals and disciplinary actions."
+    conditions:
+      - "Employee was not informed of the allegations in writing"
+      - "No opportunity was given to respond or appeal"
+      - "No disciplinary hearing was held"
+    enforcement:
+      - "Failure to comply may increase compensation by up to 25%"
+      - "Tribunal considers adherence when determining fairness of dismissal"
+    precedents:
+      - "London Borough of Brent v Fuller [2011] EWCA Civ 267"
+    keywords:
+      - "ACAS code"
+      - "procedural fairness"
+      - "employment tribunal"
+      - "disciplinary process"

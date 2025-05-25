@@ -1,0 +1,31 @@
+jurisdiction: "India"
+category: "Civil Law"
+last_updated: "2024-01-15"
+
+principles:
+  - name: "Specific Performance"
+    code: "Specific Relief Act, Section 10"
+    description: "Courts may enforce contractual obligations when monetary compensation is inadequate"
+    conditions:
+      - "Valid existing contract"
+      - "Clear contractual terms"
+      - "Performance must be possible"
+    precedents:
+      - "M.P. Mittal v. State of Haryana (1984)"
+      - "Surya Narain Upadhyaya v. Ram Roop Pandey (1994)"
+    keywords:
+      - "contract enforcement"
+      - "performance"
+
+  - name: "Injunction"
+    code: "Specific Relief Act, Sections 36-42"
+    description: "Judicial order to prevent or compel specific actions"
+    types:
+      - "Temporary"
+      - "Permanent"
+      - "Mandatory"
+    precedents:
+      - "Dalpat Kumar v. Prahlad Singh (1992)"
+    keywords:
+      - "court order"
+      - "restraining order"
