@@ -12,45 +12,7 @@ LegalIYRI8 is an intelligent legal analysis system designed to process legal cas
 - 📄 **PDF/Image Support** – Extracts facts from scanned legal documents.
 - 📊 **Summarized Output** – Generates concise legal summaries with recommendations and legality scores.
 
-## 🗂️ Project Structure
-nivedivasu23-legaliri8/
-├── main.py                         # Entry point for the app
-├── config.py                       # App and API configuration
-├── crew\_setup.py                   # CrewAI agent and task setup
-├── utils.py                        # Utility functions
-├── requirements.txt                # Required Python packages
-├── README.md                       # This file
 
-├── legal\_configs/                  # Country-specific legal YAML rules
-│   ├── canada/
-│   │   └── canada\_rent\_control.yaml
-│   ├── india/
-│   │   └── civil\_laws.yaml
-│   └── united\_kingdom/
-│       └── united\_kingdom\_unfair\_dismissal.yaml
-
-├── rag/                            # Retrieval system
-│   ├── retriever.py
-│   ├── vector\_store.py
-│   └── legal\_docs/
-│       └── india/
-
-├── tasks/                          # Modular legal task agents
-│   ├── analysis\_task.py
-│   ├── drafting\_task.py
-│   ├── research\_task.py
-│   ├── summary\_task.py
-
-├── example/                        # Example documents
-│   └── image/
-
-├── India\_validation.md             # Validation output
-├── India\_analysis.md              # Analytical output
-├── India\_summary.md               # Summary output
-├── India\_document.md              # Document text
-├── India\_research.md              # Legal research output
-
-````
 
 ## 🚀 Getting Started
 
